@@ -90,6 +90,10 @@ App: http://localhost:5173
 ## Notes
 - This is MVP scope only. Extended features are out-of-scope until requested.
 
-
+# My Contribution 
+- Trained and compared multiple ML models for flood prediction:
+  LSTM (98% accuracy), Random Forest, Logistic Regression, KNN
+- Selected best performing model based on accuracy comparison
+- Contributed to the core prediction engine of the system
 
 
